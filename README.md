@@ -1,3 +1,2 @@
 # hello-world
-this is not my first time doing this...
-I am a protector and a defender.
+This is not my first time doing this! :)
